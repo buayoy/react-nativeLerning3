@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>7B96AD0D-642F-4660-BC87-96FB381B6355</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7B96AD0D-642F-4660-BC87-96FB381B6355.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>reactLearning3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>reactLearning3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project reactLearning3 with scheme reactLearning3 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>559749126.20953095</real>
+			<key>timeStoppedRecording</key>
+			<real>559749129.70769</real>
+			<key>title</key>
+			<string>Building project reactLearning3 with scheme reactLearning3 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7B96AD0D-642F-4660-BC87-96FB381B6355</string>
+		</dict>
+		<key>FEA43C83-65EF-43A5-8447-53CFDB69E3CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FEA43C83-65EF-43A5-8447-53CFDB69E3CB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>reactLearning3 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>reactLearning3</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project reactLearning3 with scheme reactLearning3 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>559468754.72375596</real>
+			<key>timeStoppedRecording</key>
+			<real>559468756.55177903</real>
+			<key>title</key>
+			<string>Building project reactLearning3 with scheme reactLearning3 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>FEA43C83-65EF-43A5-8447-53CFDB69E3CB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
